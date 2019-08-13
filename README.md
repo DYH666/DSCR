@@ -11,4 +11,4 @@ We collect 1,951 remote sensing images from DOTA, HRSC2016, NWPU VHR-10 and Go o
 Please see the benchmark algorithms.
 
 ## Acknowledgment
-This Benchmark algorithms is created based on the reproduced classification with pytorch related code. Thanks to the [pytorch-classification](https://github.com/bearpaw/pytorch-classification)
+This Benchmark algorithms is created based on the reproduced classification with pytorch related code. Thanks to the lib [pytorch-classification](https://github.com/bearpaw/pytorch-classification)
