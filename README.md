@@ -1,2 +1,6 @@
 # DSCR
-The Dataset for Ship Classification in Remote sensing images and the benchmark algorithms
+A public Dataset for Ship Classification in Remote sensing images.
+
+##Dataset
+Our Dataset and Benchmark algorithms are downloadable at             |
+
