@@ -2,7 +2,7 @@
 A public Dataset for Ship Classification in Remote sensing images.
 
 ## Dataset
-Our Dataset and Benchmark algorithms are downloadable at     
+Our Dataset and Benchmark algorithms are downloadable at https://pan.baidu.com/s/1-L5UB3a6dMDEhr8_8jOfqw    
 
 ## Features
 We collect 1,951 remote sensing images from DOTA, HRSC2016, NWPU VHR-10 and Go ogle Earth, containing warships and civilian ships of various scales. For ob ject classification, we cut out ships of different categories from the collected images. The whole dataset contains ab out 20,675 instances which are divided into seven categories, i.e. aircraft carrier, destroyer, assault ship, combat ship, cruiser, other military ship and civilian ship. Each image contains ships of the same category, which is labeled by the category name.
